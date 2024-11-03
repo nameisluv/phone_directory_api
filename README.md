@@ -45,7 +45,7 @@ The Phone Directory API is a RESTful service that allows users to manage persona
 3. **Activate the virtual environment**:
    - On Windows:
      ```bash
-     venv\Scriptsctivate
+     venv\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
